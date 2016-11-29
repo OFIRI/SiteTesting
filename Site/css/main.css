@@ -30,7 +30,6 @@ header nav li {
 header a {
     text-decoration: none;
     color: rgba(0, 0, 0, 0.71);
-    line-height: 400%;
     margin: 0 20px 0 20px;
 
 }
@@ -51,6 +50,10 @@ section {
 
 nav {
     float: right;
+}
+
+nav a {
+    line-height: 500%;
 }
 
 /* FOOTER */
