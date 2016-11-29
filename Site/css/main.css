@@ -42,7 +42,7 @@ header a:hover {
 
 section {
     height: 650px;
-    background-image: url("../images/buldings.jpg");
+    /*background-image: url("../images/buldings.jpg");*/
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: cover;
