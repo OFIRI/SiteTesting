@@ -1,0 +1,62 @@
+/* GENERAL */
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: whitesmoke;
+    font-size: 1.3vw;
+}
+
+/* HEADER */
+
+header {
+    margin: auto;
+    overflow: hidden;
+}
+
+header nav {
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+header nav li {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.71);
+    margin: 0 20px 0 20px;
+
+}
+
+header a:hover {
+    color: rgba(0, 0, 0, 0.45);
+}
+
+/* SECTION */
+
+section {
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+}
+
+nav {
+    float: right;
+}
+
+nav a {
+    line-height: 500%;
+}
+
+/* FOOTER */
+
+footer p {
+    text-align: center;
+}
